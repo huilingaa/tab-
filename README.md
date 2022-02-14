@@ -14,3 +14,5 @@
   console.log('Hello');
 })(1,2,3);
 ```
+# demo
+采用立即执行函数实现tab插件功能
